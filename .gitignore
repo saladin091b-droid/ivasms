@@ -1,0 +1,67 @@
+# IVASMS Auto Bot - Git Ignore File
+# E.U.W IT GROUP LTD.
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+bot_auto.log
+
+# Screenshots and Debug Files
+*.png
+sms_page_debug.png
+login_failed.png
+login_error.png
+page_source.html
+
+# Sensitive Data - NEVER COMMIT THESE!
+# (Keep credentials private)
+# ivsms_auto.py with real credentials
+
+# Chrome Driver
+chromedriver.exe
+chromedriver
+undetected_chromedriver.exe
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
