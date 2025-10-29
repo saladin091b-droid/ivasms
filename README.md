@@ -94,7 +94,7 @@ asyncio
 ### Step 0: Download Python 3.11.9 (Other Vertion not sure)
 
 ```bash
-# Download the project files to your computer
+# Download the python to your computer
 https://www.python.org/downloads/release/python-3119/
 ```
 
