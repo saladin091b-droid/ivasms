@@ -25,13 +25,13 @@ from selenium.webdriver.support import expected_conditions as EC
 import undetected_chromedriver as uc
 
 # ======= CONFIG =======
-BOT_TOKEN = "8200663257:AAEQSup_uRlBbqnlZm75vu_eeS8SjkaoZlY"     # Your Telegram bot token # Get from @BotFather   
-ADMIN_ID = 5790249285                                            # Your Telegram user ID
-CHAT_ID = -1002640997198                                         # Your channel/group ID
+BOT_TOKEN = "8442885387:AAEDFNGOP7zkC0GomAa056iN4QBcoeF9eDE"     # Your Telegram bot token # Get from @BotFather   
+ADMIN_ID = 5344335558                                            # Your Telegram user ID
+CHAT_ID = 5344335558                                         # Your channel/group ID
 
 # Login credentials
-EMAIL = "saemuelsrom@gmail.com"             # Your ivasms.com email
-PASSWORD = "Ethan@1233"                     # Your ivasms.com password
+EMAIL = "hajinaka44@gmail.com"             # Your ivasms.com email
+PASSWORD = "hajinaka44"                     # Your ivasms.com password
 
 HEADLESS = False  # Set True to hide browser
 
@@ -582,3 +582,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
